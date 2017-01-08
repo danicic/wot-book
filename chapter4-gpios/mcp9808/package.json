@@ -16,7 +16,7 @@
     "mcp9808"
   ],
   "dependencies": {
-    "i2c": "~0.1.4"
+    "i2c": "^0.1.4"
   },
   "author": "Gary Anderson",
   "license": "MIT",
